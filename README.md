@@ -15,3 +15,31 @@ Registrar minha evolução
 Organizar exercícios da faculdade, cursos e estudos solo
 
 Criar base sólida para desenvolvimento Back-end
+
+Estrutura do Repositório
+--
+Os exercícios estão organizados em pastas por tema:
+
+/basico
+--
+Exercícios introdutórios de Python, como:
+
+entrada e saída de dados
+
+operações matemáticas
+
+variáveis
+
+condicionais simples
+
+primeiros programas
+
+Exemplo de exercícios dentro dessa pasta:
+
+soma de dois números
+
+média
+
+conversão de valores
+
+operações básicas
